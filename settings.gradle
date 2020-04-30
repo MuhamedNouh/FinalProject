@@ -1,0 +1,2 @@
+rootProject.name='BroadcastProject'
+include ':app', ':libbambuser-0.9.21', ':libbambuser', ':libbambuserr'
